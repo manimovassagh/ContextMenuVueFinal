@@ -1,4 +1,5 @@
 # test-project
+it is functional
 
 > A Vue.js project
 
