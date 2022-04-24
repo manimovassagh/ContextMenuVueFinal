@@ -1,5 +1,6 @@
 <template>
     <div @contextmenu="show" class="ma-0 pa-0">
+    <div> Test</div>
         <slot></slot>
 
         <v-menu
