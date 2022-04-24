@@ -5,9 +5,7 @@
                 <v-container class="ma-0 pa-0" fluid>
                     <div>check</div>
                     <div>check</div>
-                    <div>check</div>
-                    <div>check</div>
-                    <div>check</div>
+                  
                 </v-container>
             </Menu>
         </v-main>
